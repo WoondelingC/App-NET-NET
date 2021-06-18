@@ -23,7 +23,7 @@ flechaIzquierda.addEventListener('click', () => {
 });
 
 //----- ----- lista de peliculas ----- -----
-const numeroPaginas = Math.ceil(peliculas.length / 5);
+const numeroPaginas = (peliculas.length / 2);
 for (let i = 0; i < numeroPaginas; i++) {
     const indicador = document.createElement('button');
 
