@@ -79,7 +79,7 @@ header nav a.activo {
     border-radius: 0.31em;
     padding: 0.93em 1.87em;
     color: #fff;
-    margin-left: 7.25em;
+    margin-left: 5.0em;
     cursor: pointer;
     transition: .3s ease all;
     font-size: 1.12em;
@@ -115,7 +115,7 @@ header nav a.activo {
     border-radius: 0.31em;
     padding: 0.93em 1.87em;
     color: #fff;
-    margin-left: 7.25em;
+    margin-left: 5.0em;
     cursor: pointer;
     transition: .3s ease all;
     font-size: 1.12em;
@@ -153,7 +153,7 @@ header nav a.activo {
     border-radius: 0.31em;
     padding: 0.93em 1.87em;
     color: #fff;
-    margin-left: 7.25em;
+    margin-left: 5em;
     cursor: pointer;
     transition: .3s ease all;
     font-size: 1.12em;
@@ -191,7 +191,7 @@ header nav a.activo {
     border-radius: 0.31em;
     padding: 0.93em 1.87em;
     color: #fff;
-    margin-left: 7.25em;
+    margin-left: 5em;
     cursor: pointer;
     transition: .3s ease all;
     font-size: 1.12em;
@@ -331,7 +331,7 @@ header nav a.activo {
 
 form, #contenedor{
 	border: 1px solid red;
-	margin: 40px 25% 20px 25%;
+	margin: 40px 25% 20px 22%;
 	height: 400px;
 	display: block;
 	background: rgba(224, 26, 26, 50%);
